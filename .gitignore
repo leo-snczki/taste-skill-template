@@ -1,0 +1,5 @@
+.direnv/
+# Skills linked from the Nix store by the devShell.
+.claude/skills/
+.claude/settings.local.json
+.taste-skill/
